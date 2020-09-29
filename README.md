@@ -1,6 +1,9 @@
 # vue-awesome-swiper
 慕课上的vue移动端商城教程，用了vue-awesome-swiper，轮播、scroll下拉……
 
+
+
+
 cmd命令：
 淘宝镜像：
 npm config set registry http://registry.npm.taobao.org
